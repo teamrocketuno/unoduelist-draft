@@ -1,3 +1,4 @@
 name: UnoDuelist
 main: me.teamrocket.uno.UnoDuelist
 version: '1.0'
+api-version: '1.14'
